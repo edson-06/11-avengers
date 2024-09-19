@@ -1,2 +1,4 @@
 # Misiones
-Investigar planes
+
+* Investigar planes.
+* Capturar Red Skull.
